@@ -1,0 +1,10 @@
+﻿  ECProject.cpp
+\\apporto.com\dfs\SNHU\USERS\ethan.cook_snhu\Desktop\ECProject\ECProject\ECProject.cpp(265,28): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+\\apporto.com\dfs\SNHU\USERS\ethan.cook_snhu\Desktop\ECProject\ECProject\ECProject.cpp(374,18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+\\apporto.com\dfs\SNHU\USERS\ethan.cook_snhu\Desktop\ECProject\ECProject\ECProject.cpp(375,18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+\\apporto.com\dfs\SNHU\USERS\ethan.cook_snhu\Desktop\ECProject\ECProject\ECProject.cpp(379,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+\\apporto.com\dfs\SNHU\USERS\ethan.cook_snhu\Desktop\ECProject\ECProject\ECProject.cpp(380,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+\\apporto.com\dfs\SNHU\USERS\ethan.cook_snhu\Desktop\ECProject\ECProject\ECProject.cpp(382,14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+\\apporto.com\dfs\SNHU\USERS\ethan.cook_snhu\Desktop\ECProject\ECProject\ECProject.cpp(383,14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+\\apporto.com\dfs\SNHU\USERS\ethan.cook_snhu\Desktop\ECProject\ECProject\ECProject.cpp(393,32): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  ECProject.vcxproj -> \\apporto.com\dfs\SNHU\USERS\ethan.cook_snhu\Desktop\ECProject\Debug\ECProject.exe
